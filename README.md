@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+iOS, Web, App & Backend developer. Network engineer. Server administrator.  Mac, iPhone & Apple-Lover.
+
 <!--
 **laurensk/laurensk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
